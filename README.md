@@ -23,7 +23,7 @@ Install dependencies with:
 
 ```bash
 pip install requests
-
+```
 ## 📥 Inputs Required
 
 - **Keystone Authentication URL**  
@@ -55,7 +55,6 @@ pip install requests
 
 ## 📌 Example Output
 
-```text
 [+] Found 3 projects in domain 'default'
 [+] Attempting to scope token for project 'demo'...
 [+] Success. Scoped token acquired.
